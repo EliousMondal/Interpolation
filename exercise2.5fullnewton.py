@@ -1,3 +1,5 @@
+'''Author - MD ELIOUS ALI MONDAL
+   Created - 26/06/2017'''
 #interpolation by newtons divided difference polynomial
 #and finding the roots of the polynomial by newton raphson method
 
